@@ -32,5 +32,5 @@ pipeline {
                         app.push("latest")
                     }
                 }
+            }
         }
-    }
